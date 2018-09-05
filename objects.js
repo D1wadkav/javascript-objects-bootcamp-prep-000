@@ -1,1 +1,1 @@
-var meals = new Object();
+var playlist = {MJ: "thriller"};
